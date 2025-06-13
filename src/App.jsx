@@ -1,0 +1,1 @@
+// Placeholder voor src/App.jsx

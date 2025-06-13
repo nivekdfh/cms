@@ -1,0 +1,1 @@
+// Placeholder voor src/components/Header2.jsx

@@ -1,0 +1,9 @@
+// Placeholder voor styles/index.css
+/* styles/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100 text-gray-800;
+}

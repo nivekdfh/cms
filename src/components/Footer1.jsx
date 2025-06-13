@@ -1,0 +1,1 @@
+// Placeholder voor src/components/Footer1.jsx

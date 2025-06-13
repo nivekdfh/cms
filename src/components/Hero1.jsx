@@ -1,0 +1,1 @@
+// Placeholder voor src/components/Hero1.jsx
